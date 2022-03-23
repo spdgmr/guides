@@ -24,6 +24,7 @@
 [Installing Mac OS X 10.4.10 Tiger on Early 2008 Macs using Project 081](https://invidious.namazso.eu/watch?v=ch_eIXkctLg)
 
 ### Text Guides
-- Project 081 Installation Guide // [[View]](https://p081.github.io/installguide)
-- External USB connected HDD/SSD as boot drive Gentoo Linux guide // [[View]](https://gist.github.com/speediegamer/c4ab5f82b87859653107412de17d183f)
-- Keychron/Apple Keyboard function key support in Gentoo Linux guide // [[View]](https://gist.github.com/speediegamer/833db7e8f97c6a4a7fcd61868b5bbc9c)
+- Project 081 Installation Guide (p081.github.io) // [[View]](https://p081.github.io/installguide)
+- Upgrading Gentoo kernel to 5.17.0 (spdgmr.github.io) // [[View]](https://spdgmr.github.io/guide01)
+- External USB connected HDD/SSD as boot drive Gentoo Linux guide (GitHub Gist) // [[View]](https://gist.github.com/speediegamer/c4ab5f82b87859653107412de17d183f)
+- Keychron/Apple Keyboard function key support in Gentoo Linux guide (GitHub Gist) // [[View]](https://gist.github.com/speediegamer/833db7e8f97c6a4a7fcd61868b5bbc9c)
